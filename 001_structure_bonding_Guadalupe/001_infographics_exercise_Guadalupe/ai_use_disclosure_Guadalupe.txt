@@ -1,0 +1,20 @@
+AI Use Disclosure
+
+AI Tool Used: Claude (Anthropic)
+
+How it was used:
+- Brainstorming and evaluating potential organic compounds for the three infographics (settled on glucose, lactic acid, and ethanol)
+- Drafting content outlines for each infographic section (identity, structure, properties, "what's amazing about it," uses/value, risks/safety, chemical engineering connection)
+- Generating reference skeletal structure images and SMILES notation as a drawing guide for the correct molecular structures
+- Locating and formatting credible sources (PubChem, NIST WebBook, Sigma-Aldrich SDS/product sheets, OSHA, academic textbooks) in APA 7th edition style
+- Wording and phrasing assistance to make content concise and readable for the infographic format
+- General Q&A support on organic chemistry concepts covered in the activity (e.g., IUPAC naming conventions, functional groups, anomeric carbons, azeotropes)
+
+What was independently verified:
+- All chemical structures were checked for accuracy and finalized using Ketcher
+- All numerical data (molar mass, melting/boiling points, pKa, solubility) was cross-checked against the cited primary sources (PubChem, NIST, Sigma-Aldrich)
+- AI-generated draft content and reference images were reviewed for errors; inaccuracies caught during this process (e.g., an incorrect/incomplete skeletal structure, mismatched data between compounds) were identified and corrected before finalizing
+- Final infographic wording, layout, and design were independently created and are not copied directly from AI-generated drafts
+- All references were verified as legitimate, accessible sources before inclusion in references_lastname.md
+
+I remain responsible for the correctness of all chemical claims, structures, data, and references submitted in this activity.
